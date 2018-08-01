@@ -8,13 +8,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.5.9",
-        "guzzlehttp/guzzle": "~6"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^5.4"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "hVenus\\JingdongAPI\\": "src/"
