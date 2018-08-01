@@ -45,6 +45,15 @@ trait EXPRESS
     }
 
     /**
+     * 普通 基础 jingdong.ldop.waybill.generalQuery    京东查询运单信息
+     * @param $param
+     * @return mixed
+     */
+    public function ExpressJdWaybillQuery($param) {
+        return $this->call_jd_function('jingdong.ldop.waybill.generalQuery', $param);
+    }
+
+    /**
      * 普通 基础 jingdong.etms.order.print      获取京东快递运单打印
      * @param $param
      * @return string
