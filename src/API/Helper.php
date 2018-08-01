@@ -1,5 +1,5 @@
 <?php
-namespace hVenus\JingdongAPI\API;
+namespace lihang\JingdongAPI\API;
 
 trait Helper
 {

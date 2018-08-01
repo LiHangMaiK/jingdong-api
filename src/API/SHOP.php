@@ -2,7 +2,7 @@
 /**
  * 店铺API.
  */
-namespace hVenus\JingdongAPI\API;
+namespace lihang\JingdongAPI\API;
 
 
 trait SHOP

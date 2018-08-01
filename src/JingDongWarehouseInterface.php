@@ -3,7 +3,7 @@
  * JingDong Warehouse Interface.
  */
 
-namespace hVenus\JingdongAPI;
+namespace lihang\JingdongAPI;
 
 
 interface JingDongWarehouseInterface

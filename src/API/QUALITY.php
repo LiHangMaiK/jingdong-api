@@ -2,7 +2,7 @@
 /**
  * 品控质检API.
  */
-namespace hVenus\JingdongAPI\API;
+namespace lihang\JingdongAPI\API;
 
 
 trait QUALITY

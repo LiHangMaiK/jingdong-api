@@ -3,7 +3,7 @@
  * FBP仓储API.
  */
 
-namespace hVenus\JingdongAPI\API;
+namespace lihang\JingdongAPI\API;
 
 
 trait FBP

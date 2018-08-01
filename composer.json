@@ -8,10 +8,16 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": ">=5.5.9",
+        "guzzlehttp/guzzle": "~6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
     "autoload": {
         "psr-4": {
-            "hVenus\\JingdongAPI\\": "src/"
+            "lihang\\JingdongAPI\\": "src/"
         }
     },
     "license": "MIT"

@@ -3,7 +3,7 @@
  * http method.
  */
 
-namespace hVenus\JingdongAPI\Core;
+namespace lihang\JingdongAPI\Core;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;

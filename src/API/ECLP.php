@@ -2,7 +2,7 @@
 /**
  * ECLP仓海API，商家使用.
  */
-namespace hVenus\JingdongAPI\API;
+namespace lihang\JingdongAPI\API;
 
 
 trait ECLP

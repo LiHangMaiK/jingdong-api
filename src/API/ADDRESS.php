@@ -3,7 +3,7 @@
  * 京东地址库API.
  */
 
-namespace hVenus\JingdongAPI\API;
+namespace lihang\JingdongAPI\API;
 
 
 trait ADDRESS

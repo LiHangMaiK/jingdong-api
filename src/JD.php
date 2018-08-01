@@ -3,18 +3,18 @@
  * 京东接口包装.
  */
 
-namespace hVenus\JingdongAPI;
+namespace lihang\JingdongAPI;
 
-use hVenus\JingdongAPI\API\ACCOUNT;
-use hVenus\JingdongAPI\API\ADDRESS;
-use hVenus\JingdongAPI\API\CATEGORY;
-use hVenus\JingdongAPI\API\DSP;
-use hVenus\JingdongAPI\API\ECLP;
-use hVenus\JingdongAPI\API\EXPRESS;
-use hVenus\JingdongAPI\API\Helper;
-use hVenus\JingdongAPI\API\ORDER;
-use hVenus\JingdongAPI\API\SHOP;
-use hVenus\JingdongAPI\Core\BaseClass;
+use lihang\JingdongAPI\API\ACCOUNT;
+use lihang\JingdongAPI\API\ADDRESS;
+use lihang\JingdongAPI\API\CATEGORY;
+use lihang\JingdongAPI\API\DSP;
+use lihang\JingdongAPI\API\ECLP;
+use lihang\JingdongAPI\API\EXPRESS;
+use lihang\JingdongAPI\API\Helper;
+use lihang\JingdongAPI\API\ORDER;
+use lihang\JingdongAPI\API\SHOP;
+use lihang\JingdongAPI\Core\BaseClass;
 
 class JD extends BaseClass
 {

@@ -3,7 +3,7 @@
  * 微信手Q开放API
  */
 
-namespace hVenus\JingdongAPI\API;
+namespace lihang\JingdongAPI\API;
 
 
 trait WECHAT

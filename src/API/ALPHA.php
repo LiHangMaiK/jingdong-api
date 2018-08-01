@@ -3,7 +3,7 @@
  * 阿尔法API.
  */
 
-namespace hVenus\JingdongAPI\API;
+namespace lihang\JingdongAPI\API;
 
 
 trait ALPHA

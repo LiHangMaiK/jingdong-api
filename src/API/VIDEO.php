@@ -3,7 +3,7 @@
  * 视频服务API.
  */
 
-namespace hVenus\JingdongAPI\API;
+namespace lihang\JingdongAPI\API;
 
 
 trait VIDEO

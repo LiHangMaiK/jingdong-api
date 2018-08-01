@@ -2,7 +2,7 @@
 /**
  * 京准通-快车API.
  */
-namespace hVenus\JingdongAPI\API;
+namespace lihang\JingdongAPI\API;
 
 
 trait DSP

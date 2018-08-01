@@ -3,7 +3,7 @@
  * 快递API.
  */
 
-namespace hVenus\JingdongAPI\API;
+namespace lihang\JingdongAPI\API;
 
 
 trait EXPRESS
